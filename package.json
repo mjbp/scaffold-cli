@@ -1,0 +1,35 @@
+{
+  "name": "@stormid/scaffold-cli",
+  "version": "0.1.0",
+  "description": "",
+  "author": "stormid",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "bin": {
+    "scaffold": "lib/index.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "stormid",
+    "scaffold",
+    "build",
+    "system",
+    "generator"
+  ],
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "gittar": "^0.1.1",
+    "kleur": "^3.0.3",
+    "ora": "^4.0.2",
+    "sade": "^1.6.1",
+    "validate-npm-package-name": "^3.0.0"
+  }
+}
