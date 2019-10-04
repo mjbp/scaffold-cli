@@ -1,6 +1,6 @@
 {
   "name": "@stormid/scaffold-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Start a new project using the StormId scaffold",
   "author": "stormid",
   "license": "MIT",
