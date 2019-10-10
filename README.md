@@ -1,6 +1,6 @@
 # Scaffold CLI
 
-Start a new project using the [StormId scaffold](https://github.com/stormid/scaffold)
+Start a new project using the [Storm Id scaffold](https://github.com/stormid/scaffold)
 
 ## Installation
 ```
