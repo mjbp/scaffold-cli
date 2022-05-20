@@ -16,7 +16,8 @@ scaffold <project-name>
 ```
 scaffold <project-name>
 
---name        The application name.
---cwd         A directory to use instead of $PWD.
---install     Installs dependencies.                                [boolean] [default: true]
+--name                  The application name.
+--umbraco <version>     Install the @stormid/umbraco-library        [npm version] [default: latest]
+--cwd                   A directory to use instead of $PWD.
+--install               Installs dependencies.                      [boolean] [default: true]
 ``` 
