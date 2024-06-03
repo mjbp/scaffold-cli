@@ -18,6 +18,7 @@ scaffold <project-name>
 
 --name                  The application name.
 --umbraco <version>     Install the @stormid/umbraco-library        [npm version] [default: latest]
+--ie11                  Add support for IE11
 --cwd                   A directory to use instead of $PWD.
 --install               Installs dependencies.                      [boolean] [default: true]
 ``` 
