@@ -30,7 +30,7 @@
     "gittar": "^0.1.1",
     "kleur": "^3.0.3",
     "node-fetch": "^2.6.7",
-    "npm-name": "^6.0.1",
+    "npm-name": "^8.0.0",
     "ora": "^3.4.0",
     "sade": "^1.6.1",
     "validate-npm-package-name": "^3.0.0",
