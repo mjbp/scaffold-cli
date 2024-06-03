@@ -4,7 +4,7 @@
   "description": "Start a new project using the StormId scaffold",
   "author": "stormid",
   "license": "MIT",
-  "repository": "stormid/scaffold-cli",
+  "repository": "@stormid/scaffold-cli",
   "main": "lib/index.js",
   "bin": {
     "scaffold": "lib/index.js"
@@ -14,7 +14,7 @@
     "postpublish": "npm publish --ignore-scripts --@stormid:registry='https://npm.pkg.github.com'"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">=16"
   },
   "keywords": [
     "stormid",
